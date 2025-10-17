@@ -66,6 +66,7 @@ Python 3.14 ░░░░░░░░░░░░░░░░░░░░   0% �
 ### 环境说明
 
 - **虚拟环境路径**：`.venv314t/`（已加入 .gitignore）
+- **Python 本地安装**：`python314/`（虚拟环境依赖，已加入 .gitignore）
 - **Python 版本**：3.14.0 (free-threading)
 - **项目路径**：`C:\Users\WDAGUtilityAccount\Desktop\comfyui_src\unsafe_project\learn_python14`
 
@@ -73,6 +74,8 @@ Python 3.14 ░░░░░░░░░░░░░░░░░░░░   0% �
 - ⚠️ 某些特性需要特定 Python 版本才能运行（示例文件中会标注）
 - ⚠️ Python 3.14t 的 free-threading 特性为实验性功能
 - ⚠️ 建议使用虚拟环境，避免影响系统 Python 环境
+- ⚠️ `python314/` 目录包含完整的 Python 安装（虚拟环境依赖它），**请勿删除**
+- ⚠️ `python314/` 和 `.venv314t/` 都不会提交到 Git（已在 .gitignore 中）
 
 ## 🚀 快速开始
 

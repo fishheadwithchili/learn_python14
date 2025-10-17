@@ -130,6 +130,10 @@ site/
 python-3.14.0-amd64.exe
 *.exe
 
+# Python 本地安装目录（虚拟环境依赖但不应提交）
+python314/
+python*/
+
 # 忽略临时测试文件
 test_*.py
 tmp/
