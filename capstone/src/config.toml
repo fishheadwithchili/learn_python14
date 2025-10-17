@@ -1,0 +1,16 @@
+[project]
+name = "capstone"
+
+[[tasks]]
+type = "echo"
+msg = "hello"
+
+[[tasks]]
+type = "sleep"
+secs = 0.1
+
+[[tasks]]
+type = "echo"
+msg = "world"
+
+
